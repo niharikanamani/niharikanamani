@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niharikanamani
-- 👀 I’m interested in web development and ios app development
-- 🌱 I’m currently learning ios app development
+- 👀 I’m interested in Web Development and IOS App Development
+- 🌱 I’m currently learning IOS App Development
 - 📫 How to reach me niharikagunny1@gmail.com
 
 <!---
